@@ -47,7 +47,7 @@ h2{
   position: absolute;
 }
 #i3{
-  height: 40px;
+  height: 50px;
 }
 .topcloud{
 position: relative;
@@ -58,11 +58,11 @@ left:180px;
 }
 .linkedin{
   height:30px;
-  margin-right: 40px;
+  margin-right: 50px;
 }
 .youtube{
   margin-left: 30px;
-  height: 40px;
+  height: 50px;
 }
 .btn{
   position: absolute;
