@@ -1,0 +1,92 @@
+.top{
+  background-color: #f07b3f;
+  text-align: center;
+
+
+
+}
+h1{
+  color:white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body{
+  margin: 0;
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+}
+#ap{
+  color:white;
+  font-size: 9.5px;
+
+}
+#img1{
+  height:180px;
+
+}
+p{
+  color:orange;
+  font-size: 20px;
+}
+.middle{
+  text-align: center;
+}
+.chess{
+  height: 180px;
+}
+
+h2{
+
+}
+.bottom{
+
+}
+.bottomcloud{
+  position: absolute;
+}
+#i3{
+  height: 40px;
+}
+.topcloud{
+position: relative;
+left:180px;
+}
+.tools{
+  height:180px;
+}
+.linkedin{
+  height:30px;
+  margin-right: 40px;
+}
+.youtube{
+  margin-left: 30px;
+  height: 40px;
+}
+.btn{
+  position: absolute;
+  left:20px;
+}
+.cs{
+  height: 220px;
+  position: absolute;
+  right: 10px;
+}
+.pp{
+  height: 220px;
+  position: absolute;
+  left: 10px;
+}
+.comp1{
+  height: 50px;
+  position: absolute;
+  left:10px;
+  top:440px;
+}
+.comp2{
+  height: 50px;
+  position: absolute;
+  right: 10px;
+    top:440px;
+
+}
