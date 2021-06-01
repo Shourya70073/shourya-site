@@ -1,8 +1,8 @@
 .top{
   background-color: #f07b3f;
   text-align: center;
-  padding:50px;
-   
+  padding: 40px;
+
 
 
 }
@@ -10,13 +10,14 @@ h1{
   color:white;
   margin-top: 0;
   margin-bottom: 0;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 body{
   margin: 0;
   font-family: 'Shadows Into Light', cursive;
   text-align: center;
-  
+  font-size: 60px;
 }
 #ap{
   color:white;
@@ -30,7 +31,7 @@ body{
 p{
   color:orange;
   font-size: 20px;
-   font-family: 'Shadows Into Light', cursive;
+  font-family: 'Shadows Into Light', cursive;
 }
 .middle{
   text-align: center;
@@ -40,6 +41,7 @@ p{
 }
 
 h2{
+  font-family: 'Shadows Into Light', cursive;
 
 }
 .bottom{
@@ -49,7 +51,7 @@ h2{
   position: absolute;
 }
 #i3{
-  height: 50px;
+  height: 40px;
 }
 .topcloud{
 position: relative;
@@ -60,11 +62,11 @@ left:180px;
 }
 .linkedin{
   height:30px;
-  margin-right: 50px;
+  margin-right: 40px;
 }
 .youtube{
   margin-left: 30px;
-  height: 50px;
+  height: 40px;
 }
 .btn{
   position: absolute;
@@ -95,4 +97,7 @@ left:180px;
 }
 .touch{
   height: 180px;
+}
+h3{
+  font-family: 'Shadows Into Light', cursive;
 }
