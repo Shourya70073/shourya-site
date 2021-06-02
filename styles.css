@@ -104,3 +104,15 @@ h3{
 .change{
   font-size:25px;
 }
+.navbaar{
+   background-color:white;
+   position:relative;
+   bottom:40px;
+   margin:0;
+   display:inline-block;
+   
+}
+.navo{
+position:fixed;
+}
+
